@@ -68,13 +68,13 @@ Betim possui uma das economias mais robustas e diversificadas de Minas Gerais:
 
 ---
 
-## 🖥️ Secretaria de Tecnologia da Informação (SETE/STI)
+## 🖥️ Secretaria de Tecnologia da Informação (SETE)
 
-A **Secretaria Municipal de Tecnologia da Informação (SETE/STI)** da Prefeitura de Betim é responsável por planejar, coordenar e fornecer serviços na área de tecnologia da informação para toda a administração pública municipal.
+A **Secretaria Municipal de Tecnologia da Informação (SETE)** da Prefeitura de Betim é responsável por planejar, coordenar e fornecer serviços na área de tecnologia da informação para toda a administração pública municipal.
 
 ### 📅 História e Evolução
 
-Desde sua criação em **2005**, a SETE/STI desenvolve atividades voltadas para organizar e padronizar a tecnologia da informação na prefeitura, abrangendo todos os órgãos do poder executivo municipal.
+Desde sua criação em **2005**, a SETE desenvolve atividades voltadas para organizar e padronizar a tecnologia da informação na prefeitura, abrangendo todos os órgãos do poder executivo municipal.
 
 ### 🎯 Missão
 
@@ -103,10 +103,10 @@ Ser referência nacional em gestão pública digital, promovendo a transformaç�
 **Secretária Municipal de Tecnologia da Informação:**
 Larissa Muritiba Lima
 
-### 📞 Contato SETE/STI
+### 📞 Contato SETE
 
 - **Site**: [www.betim.mg.gov.br](https://www.betim.mg.gov.br)
-- **Telefones**: Consultar [página de contatos da STI](https://www.betim.mg.gov.br/portal/secretarias-paginas/184/telefones-da-sti/)
+- **Telefones**: Consultar [página de contatos da SETE](https://www.betim.mg.gov.br/portal/secretarias-paginas/184/telefones-da-sti/)
 - **Endereço**: Prefeitura de Betim - Betim/MG
 
 ---
@@ -197,298 +197,11 @@ A Fundação Beta foi criada através da **Lei Complementar nº 04, de 27 de mar
 
 ---
 
-## 💻 Projetos e Sistemas Desenvolvidos
-
-A Secretaria de Tecnologia da Informação (SETE/STI) desenvolve e mantém diversos sistemas e projetos que modernizam a gestão pública e facilitam o acesso aos serviços municipais.
-
-### 🏗️ Urbanismo e Obras
-
-#### 1. Sistema de Aprovação Digital de Projetos
-Betim foi uma das primeiras cidades do Brasil a implementar aprovação digital de projetos em **2011**.
-
-**Benefícios:**
-- Eliminação do deslocamento presencial à Prefeitura
-- Não necessidade de impressão de projetos e documentos físicos
-- Agilidade e segurança em todas as fases do processo
-- Transparência através do "Mapa de Alvarás"
-- Acompanhamento online do andamento do processo
-- Sistema desenvolvido internamente e em constante evolução
-
-**Acesso**: [dpurb.betim.mg.gov.br](http://www.dpurb.betim.mg.gov.br/)
-**Repositório**: `mvc-projetos`
-
-#### 2. Sistema de Aprovação Digital de Parcelamento de Solo
-Implementado em maio de 2018, permite a aprovação de loteamentos de forma totalmente digital.
-
-**Repositório**: `mvc-projetos`
-
-### 📋 Gestão e Transparência
-
-#### 3. Portal de Transparência
-Sistema completo de transparência pública com dados sobre execução orçamentária, contratos, licitações e folha de pagamento, em conformidade com a Lei de Acesso à Informação.
-
-**Funcionalidades:**
-- Receitas e despesas públicas
-- Contratos e licitações
-- Folha de pagamento de servidores
-- Transferências e convênios
-- Relatórios fiscais
-
-**Repositório**: `mvc-transparencia`
-
-#### 4. Sistema de Protocolo Digital
-Permite a abertura de mais de **30 tipos de processos online**, sem necessidade de deslocamento.
-
-**Serviços disponíveis:**
-- Processos de urbanismo
-- Solicitações de serviços gerais
-- Acesso a documentos de RH para servidores
-- Reembolso de transporte
-- Acompanhamento de férias
-- Declarações diversas
-
-**Acesso**: [sistemas.betim.mg.gov.br/protocolo](https://sistemas.betim.mg.gov.br/protocolo)
-**Repositório**: `mvc-protocolo`
-
-### 🏥 Saúde Pública
-
-#### 5. Sistema de Regulação em Saúde
-Plataforma para gestão da regulação de serviços de saúde municipal.
-
-**Funcionalidades:**
-- Controle de filas e agendamentos
-- Gestão de leitos hospitalares
-- Regulação de exames e consultas especializadas
-- Central de marcação de consultas
-
-**Repositório**: `mvc-saude-regulacao`
-
-#### 6. Sistema Epidemiológico
-Sistema para vigilância epidemiológica e controle de doenças.
-
-**Funcionalidades:**
-- Monitoramento de doenças e agravos
-- Vigilância sanitária
-- Controle de surtos e epidemias
-- Relatórios epidemiológicos
-
-**Repositório**: `mvc-saude-epidemiologico`
-
-#### 7. Controle de Estoque de Medicamentos
-Sistema integrado para gestão de medicamentos na rede municipal de saúde.
-
-**Funcionalidades:**
-- Controle de entrada e saída de medicamentos
-- Gestão de validade e distribuição
-- Inventário automatizado
-- Relatórios de consumo e previsão de demanda
-
-**Repositório**: `mvc-saude-estoquemedicamento`
-
-### 💼 Emprego e Qualificação
-
-#### 8. Portal de Cursos e Capacitação
-Plataforma para oferta de cursos e capacitação profissional aos cidadãos.
-
-**Funcionalidades:**
-- Catálogo de cursos disponíveis
-- Inscrições online
-- Certificados digitais
-- Acompanhamento de turmas
-
-**Repositório**: `mvc-cursos`
-
-#### 9. Sistema de Gestão de Vagas
-Portal de empregos municipais e oportunidades profissionais.
-
-**Funcionalidades:**
-- Divulgação de vagas de emprego
-- Cadastro de currículos
-- Sistema de matching candidato-vaga
-- Banco de talentos
-
-**Repositório**: `mvc-vagas`
-
-#### 10. Portal de Estágios
-Sistema para gestão de vagas de estágio no município.
-
-**Funcionalidades:**
-- Cadastro de estudantes
-- Vagas de estágio disponíveis
-- Gestão de convênios com instituições de ensino
-- Acompanhamento de estagiários
-
-**Repositório**: `mvc-estagio`
-
-#### 11. Sistema de Concursos Públicos
-Plataforma completa para gestão de concursos públicos municipais.
-
-**Funcionalidades:**
-- Publicação de editais
-- Inscrições online
-- Acompanhamento de processos seletivos
-- Divulgação de resultados
-- Recursos e interposições
-
-**Repositório**: `mvc-concurso`
-
-### 👨‍💼 Gestão de Pessoas
-
-#### 12. Portal de Contracheque Digital
-Acesso online a contracheques e informações funcionais para servidores municipais.
-
-**Funcionalidades:**
-- Visualização e download de contracheques
-- Histórico de pagamentos
-- Declarações funcionais
-- Comprovantes de rendimentos
-- Informe de rendimentos para IR
-
-**Repositório**: `mvc-contracheque`
-
-### 📰 Comunicação Oficial
-
-#### 13. Boletim Oficial Digital
-Publicação eletrônica do diário oficial do município.
-
-**Funcionalidades:**
-- Publicação de atos oficiais
-- Pesquisa avançada de conteúdo
-- Assinatura digital de documentos
-- Arquivo histórico digital
-- Validação de autenticidade
-
-**Repositório**: `mvc-boletimoficial`
-
-### 🤝 Convênios e Parcerias
-
-#### 14. Portal de Convênios
-Sistema para gestão e acompanhamento de convênios municipais.
-
-**Funcionalidades:**
-- Cadastro e gestão de convênios
-- Acompanhamento de execução
-- Prestação de contas
-- Documentação digital
-- Relatórios de transferências
-
-**Repositório**: `mvc-convenio`
-
-### 🌐 Portais Institucionais
-
-#### 15. Website Institucional
-Portal principal da Prefeitura de Betim com informações e serviços ao cidadão.
-
-**Funcionalidades:**
-- Notícias e comunicados oficiais
-- Acesso a serviços públicos
-- Informações sobre secretarias
-- Agenda do município
-- Carta de serviços
-
-**Acesso**: [www.betim.mg.gov.br](https://www.betim.mg.gov.br)
-**Repositório**: `mvc-websitemunicipal`
-
-#### 16. Portal de Governo Digital
-Plataforma centralizada de serviços digitais municipais, funcionando como uma "porta de entrada única" para os serviços online.
-
-**Funcionalidades:**
-- Integração de diversos sistemas
-- Login único (SSO)
-- Painel do cidadão
-- Histórico de solicitações
-- Central de atendimento
-
-**Repositório**: `mvc-governo`
-
-### 🚨 Segurança Pública
-
-#### 17. Sistema Integrado de Defesa Civil
-Plataforma para gestão de ocorrências e prevenção de desastres.
-
-**Funcionalidades:**
-- Registro de ocorrências de defesa civil
-- Mapeamento de áreas de risco
-- Alertas e avisos à população
-- Gestão de emergências
-- Coordenação de ações preventivas
-
-**Repositório**: `mvc-seguranca-defesacivil`
-
-#### 18. SIRODES - Sistema Integrado de Registro de Ocorrências
-Sistema para registro e acompanhamento de ocorrências de segurança pública.
-
-**Funcionalidades:**
-- Registro de ocorrências
-- Geolocalização de eventos
-- Estatísticas de segurança pública
-- Integração com órgãos de segurança
-- Relatórios e análises
-
-**Repositório**: `mvc-seguranca-sirodes`
-
-### 🎨 Bibliotecas de Interface
-
-#### 19. React Next UI
-Biblioteca de componentes React/Next.js para padronização visual dos portais municipais.
-
-**Características:**
-- Design system unificado
-- Componentes reutilizáveis
-- Acessibilidade (WCAG)
-- Responsividade
-- Documentação completa
-
-**Repositório**: `reactnext-ui`
-
-#### 20. DotNet UI
-Biblioteca de componentes .NET para aplicações MVC.
-
-**Características:**
-- Componentes para ASP.NET MVC
-- Helpers e extensões
-- Padrões de layout
-- Integração com Entity Framework
-- Best practices de desenvolvimento
-
-**Repositório**: `dotnet-ui`
-
-### 🛠️ Ferramentas e Templates
-
-#### 21. Template C# MVC
-Template padronizado para criação de novos sistemas MVC em C#/.NET.
-
-**Inclui:**
-- Estrutura base de projeto
-- Autenticação e autorização
-- Padrões de arquitetura
-- Configurações de segurança
-- Integração com banco de dados
-- Boas práticas de desenvolvimento
-
-**Repositório**: `template-csharp-mvc`
-
-#### 22. Web Status
-Sistema de monitoramento de disponibilidade e status dos serviços online.
-
-**Funcionalidades:**
-- Monitoramento em tempo real
-- Histórico de disponibilidade
-- Alertas de indisponibilidade
-- Dashboard público
-- Métricas de performance
-
-**Tecnologia**: TypeScript
-**Repositório**: `web-status`
-
----
-
 ## 🛠️ Stack Tecnológico
 
 ### Backend
 - **C# / .NET Core / .NET 6+**
 - **ASP.NET MVC**
-- **SQL Server**
 - **Entity Framework Core**
 - **Web APIs RESTful**
 
@@ -503,7 +216,6 @@ Sistema de monitoramento de disponibilidade e status dos serviços online.
 - **Git / GitHub**
 - **CI/CD (em implementação)**
 - **Docker (em implementação)**
-- **Azure DevOps**
 - **Servidores Windows Server**
 - **IIS (Internet Information Services)**
 
@@ -517,54 +229,16 @@ Sistema de monitoramento de disponibilidade e status dos serviços online.
 
 ### Banco de Dados
 - **SQL Server**
+- **Oracle Database**
 - **Entity Framework Core (ORM)**
 - **Stored Procedures**
 - **Views e Triggers**
 
 ---
 
-## 📚 Estrutura dos Repositórios
-
-```
-a-publico/
-└── sti/
-    ├── .github/                       # Documentação e configurações GitHub
-    │
-    ├── mvc-projetos/                  # Sistema de Aprovação Digital de Projetos
-    ├── mvc-transparencia/             # Portal de Transparência
-    ├── mvc-protocolo/                 # Sistema de Protocolo Digital
-    │
-    ├── mvc-saude-regulacao/           # Sistema de Regulação em Saúde
-    ├── mvc-saude-epidemiologico/      # Sistema Epidemiológico
-    ├── mvc-saude-estoquemedicamento/  # Controle de Estoque de Medicamentos
-    │
-    ├── mvc-cursos/                    # Portal de Cursos e Capacitação
-    ├── mvc-vagas/                     # Sistema de Gestão de Vagas
-    ├── mvc-estagio/                   # Portal de Estágios
-    ├── mvc-concurso/                  # Sistema de Concursos Públicos
-    │
-    ├── mvc-contracheque/              # Portal de Contracheque Digital
-    ├── mvc-boletimoficial/            # Boletim Oficial Digital
-    ├── mvc-convenio/                  # Portal de Convênios
-    │
-    ├── mvc-websitemunicipal/          # Website Institucional
-    ├── mvc-governo/                   # Portal de Governo Digital
-    │
-    ├── mvc-seguranca-defesacivil/     # Sistema de Defesa Civil
-    ├── mvc-seguranca-sirodes/         # SIRODES - Registro de Ocorrências
-    │
-    ├── reactnext-ui/                  # Biblioteca de Componentes React/Next.js
-    ├── dotnet-ui/                     # Biblioteca de Componentes .NET
-    │
-    ├── template-csharp-mvc/           # Template Base para Projetos MVC
-    └── web-status/                    # Sistema de Monitoramento de Status
-```
-
----
-
 ## 📖 Padrões e Boas Práticas
 
-Todos os projetos da SETE/STI seguem rigorosos padrões estabelecidos:
+Todos os projetos da SETE seguem rigorosos padrões estabelecidos:
 
 ### Desenvolvimento
 - **Clean Code**: Código limpo e legível
@@ -599,13 +273,13 @@ Todos os projetos da SETE/STI seguem rigorosos padrões estabelecidos:
 
 ## 🤝 Colaboração
 
-Os projetos da SETE/STI são desenvolvidos pela equipe interna da Secretaria de Tecnologia da Informação em colaboração com outras secretarias municipais e com o apoio da Fundação Beta.
+Os projetos da SETE são desenvolvidos pela equipe interna da Secretaria de Tecnologia da Informação em colaboração com outras secretarias municipais e com o apoio da Fundação Beta.
 
 ### Para Servidores Municipais
 
 Se você é servidor municipal e deseja contribuir ou reportar problemas:
 
-1. **Entre em contato** com a SETE/STI
+1. **Entre em contato** com a SETE
 2. **Solicite acesso** aos repositórios relevantes
 3. **Siga os padrões** de desenvolvimento estabelecidos
 4. **Submeta suas contribuições** para revisão da equipe técnica
@@ -647,7 +321,6 @@ Projetos desenvolvidos pela Prefeitura Municipal de Betim para uso da administra
 - [Instagram - Fundação Beta](https://www.instagram.com/betabetim/)
 
 ### Desenvolvimento
-- [GitHub - Organizações STI](https://github.com/a-publico/sti)
 - [Status dos Serviços](web-status)
 
 ---
@@ -655,7 +328,7 @@ Projetos desenvolvidos pela Prefeitura Municipal de Betim para uso da administra
 <div align="center">
 
 **Prefeitura Municipal de Betim**
-**Secretaria de Tecnologia da Informação (SETE/STI)**
+**Secretaria de Tecnologia da Informação (SETE)**
 **Fundação Beta**
 
 **Minas Gerais - Brasil**
@@ -664,6 +337,7 @@ Projetos desenvolvidos pela Prefeitura Municipal de Betim para uso da administra
 
 ---
 
-**Desenvolvido com dedicação pela equipe da SETE/STI e Fundação Beta**
+**Desenvolvido com dedicação pela equipe da SETE e Fundação Beta**
 
 </div>
+
