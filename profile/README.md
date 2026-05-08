@@ -101,7 +101,7 @@ Ser referência nacional em gestão pública digital, promovendo a transformaç�
 ### 👥 Liderança
 
 **Secretária Municipal de Tecnologia da Informação:**
-Larissa Muritiba Lima
+Carlos Alberto Rabelo
 
 ### 📞 Contato SETE
 
